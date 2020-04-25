@@ -151,7 +151,7 @@ blockquote {
 
   position: relative;
 }
-/*
+
 @media (min-height: 600px) and (min-width: 1920px) {
   #infinite {
     background-size: cover;
@@ -181,7 +181,7 @@ blockquote {
     background-position: center -450px;
   }
 }
-*/
+
 .tm-hero-text-container {
   width: 100%;
   height: 100%;
@@ -209,7 +209,7 @@ blockquote {
   left: 0;
   right: 0;
 }
-/*
+
 @media (max-height: 480px) {
   .tm-hero-text-container-inner {
     margin-top: -40px;
@@ -218,7 +218,7 @@ blockquote {
   .tm-intro-next {
     bottom: 20px;
   }
-}*/
+}
 
 .tm-down-arrow-link {
   display: block;
@@ -267,18 +267,18 @@ blockquote {
 /* Testimonials */
 #testimonials {
   color: white;
- background-image: url(../img/board6.jpg);
+ background-image: url(../img/infinite-loop-02.jpg);
   background-blend-mode: screen;
   background-size: 100%;
   height: 850px;
   position: relative;
 }
-/*
+
 @media (max-width: 991px) {
   #testimonials {
    background-image: url(../img/infinite-loop-02-mobile.jpg);
   }
-}*/
+}
 
 .tm-testimonials-content {
   position: relative;
@@ -611,7 +611,7 @@ figure.effect-honey:hover h2 i {
 p {
   line-height: 1.9;
 }
-/*
+
 @media (min-width: 768px) {
   .tm-intro-text-container {
     padding-left: 0px;
@@ -696,4 +696,3 @@ p {
     margin: 0;
   }
 }
-*/
