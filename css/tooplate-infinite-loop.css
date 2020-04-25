@@ -277,7 +277,6 @@ blockquote {
 @media (max-width: 991px) {
   #testimonials {
    background-image: url(../img/infinite-loop-02-mobile.jpg);
-   
   }
 }
 
@@ -513,7 +512,7 @@ figure.effect-honey:hover h2 i {
 
 #contact {
   color: black;
-  background-color: black;
+  background-color: white;
   background-image: url(../img/contact2.jpg);
   background-position: center;
   background-repeat: no-repeat;
