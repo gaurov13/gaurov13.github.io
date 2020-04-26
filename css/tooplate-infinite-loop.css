@@ -95,7 +95,7 @@ blockquote {
 }
 
 .tm-navbar.scroll .navbar-brand {
-  color: #369;
+  color: #FFD700;
 }
 
 .nav-item {
@@ -107,14 +107,14 @@ blockquote {
 }
 
 .tm-navbar.scroll .tm-nav-link {
-  color: #369;
+  color: #FFD700;
 }
 
 .tm-navbar.scroll .tm-nav-link:hover,
 .tm-navbar.scroll .tm-nav-link.current,
 .tm-nav-link:hover {
   color: #FFF;
-  background-color: #369;
+  background-color: #FFD700;
 }
 
 .navbar-toggler {
@@ -540,7 +540,7 @@ figure.effect-honey:hover h2 i {
 
 .item-link:hover i,
 .item-link:hover span {
-  color: #3496d8;
+  color: yellow;
 }
 
 .tm-input {
